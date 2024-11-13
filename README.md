@@ -20,3 +20,42 @@ The program runs as follows:
 - If student then asks roll number and password
 
 Then each one will have the options accessible as mentioned earlier
+
+Following student data is added by default:
+
+roll no - 40
+name - Riddhima Chanda
+password - password40
+
+roll no - 45 
+name - Roshni Roy Banik
+password - password45
+
+roll no - 52
+name - Prajukti Debnath
+password - password52
+
+roll no - 54
+name - Ritam Das
+password - password54
+
+roll no - 53
+name - Sarasij Das
+password - password53
+
+Following Books data is added by default
+
+name of book: Introduction to Software Engineering
+author: Rajiv Mall
+
+name of book: Indian Polity
+author: M.Laxmikanth
+
+name of book: Ancient India
+author: RS Sharma
+
+name of book: Make Epic Money
+author: Ankur Warikoo
+
+name of book: Quantitative Aptitude for Competitive Examinations
+author: R.S. Aggarwal
